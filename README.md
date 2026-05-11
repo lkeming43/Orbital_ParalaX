@@ -1,2 +1,2 @@
-# Orbital_ParalaX
-2026 summer Orbital program with Lucas
+# Orbital_ParallaX
+2026 summer Orbital program
